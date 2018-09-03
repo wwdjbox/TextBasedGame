@@ -10,6 +10,7 @@ namespace Text_Based_Game
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
